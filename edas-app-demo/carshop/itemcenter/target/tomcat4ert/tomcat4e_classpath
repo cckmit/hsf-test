@@ -1,5 +1,4 @@
 D:\IDEA\hsf\edas-app-demo\carshop\itemcenter\target\lib\servlet-api-2.5.jar
-D:\IDEA\hsf\edas-app-demo\carshop\itemcenter\target\lib\edas-sdk-1.5.4.jar
 D:\IDEA\hsf\edas-app-demo\carshop\itemcenter\target\lib\spring-test-4.3.12.RELEASE.jar
 D:\IDEA\hsf\edas-app-demo\carshop\itemcenter\target\lib\spring-core-4.3.12.RELEASE.jar
 D:\IDEA\hsf\edas-app-demo\carshop\itemcenter\target\lib\commons-logging-1.2.jar
@@ -24,6 +23,17 @@ D:\IDEA\hsf\edas-app-demo\carshop\itemcenter\target\lib\jackson-core-asl-1.9.13.
 D:\IDEA\hsf\edas-app-demo\carshop\itemcenter\target\lib\jackson-annotations-2.8.5.jar
 D:\IDEA\hsf\edas-app-demo\carshop\itemcenter\target\lib\jackson-core-2.8.5.jar
 D:\IDEA\hsf\edas-app-demo\carshop\itemcenter\target\lib\jackson-databind-2.8.5.jar
+D:\IDEA\hsf\edas-app-demo\carshop\itemcenter\target\lib\shiro-web-1.3.2.jar
+D:\IDEA\hsf\edas-app-demo\carshop\itemcenter\target\lib\shiro-core-1.3.2.jar
+D:\IDEA\hsf\edas-app-demo\carshop\itemcenter\target\lib\commons-beanutils-1.8.3.jar
+D:\IDEA\hsf\edas-app-demo\carshop\itemcenter\target\lib\shiro-spring-1.3.2.jar
+D:\IDEA\hsf\edas-app-demo\carshop\itemcenter\target\lib\druid-1.1.0.jar
+D:\IDEA\hsf\edas-app-demo\carshop\itemcenter\target\lib\mybatis-3.4.2.jar
+D:\IDEA\hsf\edas-app-demo\carshop\itemcenter\target\lib\mybatis-spring-1.3.1.jar
+D:\IDEA\hsf\edas-app-demo\carshop\itemcenter\target\lib\mysql-connector-java-5.1.35.jar
+D:\IDEA\hsf\edas-app-demo\carshop\itemcenter\target\lib\aspectjrt-1.8.0.jar
+D:\IDEA\hsf\edas-app-demo\carshop\itemcenter\target\lib\aspectjweaver-1.8.0.jar
+D:\IDEA\hsf\edas-app-demo\carshop\itemcenter\target\lib\edas-sdk-1.5.4.jar
 D:\IDEA\hsf\edas-app-demo\carshop\itemcenter\src\main\webapp
 D:\IDEA\hsf\edas-app-demo\carshop\itemcenter\target\classes
 D:\IDEA\hsf\edas-app-demo\carshop\itemcenter-api\target\classes

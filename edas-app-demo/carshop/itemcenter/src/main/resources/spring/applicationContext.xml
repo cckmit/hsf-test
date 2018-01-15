@@ -75,13 +75,13 @@
     <!-- 批量配置mapper代理类，默认bean的id为类名首字母小写 ，统一配置，扫描开发-->
     <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
         <!-- 要扫描包的路径 -->
-        <property name="basePackage" value="com.shiroweb.mapper"/>
+        <property name="basePackage" value="com.hsf.mapper"/>
         <!-- 默认不需要配置SqlSessionFactory（只有一个SqlSessionFactory时），单独配置也可以 -->
         <!-- <property name="sqlSessionFactory" ref="sqlSessionFactory"/> -->
         <property name="sqlSessionFactoryBeanName" value="sqlSessionFactory"></property>
     </bean>
 
 	    <!-- 自动扫描 -->
-    <context:component-scan base-package="com.shiroweb.service" />
+    <context:component-scan base-package="com.hsf.service" />
 
 </beans>

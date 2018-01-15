@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Fri Jan 05 14:52:22 CST 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0160-c517-87f4-00000b5c3dc8 
+Mon Jan 15 17:13:40 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0160-f918-7bce-00000e03b7f8 
 on database directory D:\IDEA\hsf\edas-config-center\config-center-db with class loader org.springframework.boot.loader.LaunchedURLClassLoader@2a84aee7 
 Loaded from jar:file:/D:/IDEA/hsf/edas-config-center/edas-config-center.jar!/lib/derby-10.12.1.1.jar!/
 java.vendor=Oracle Corporation

@@ -48,7 +48,7 @@
     <!-- 配置事务切面 -->
     <aop:config>
         <!-- 配置事务切点，execution表达式进行扫描 -->
-        <aop:pointcut expression="execution(* com.shiroweb.service..*.*(..))" id="allServiceMethod"/>
+        <aop:pointcut expression="execution(* com.hsf.service..*.*(..))" id="allServiceMethod"/>
         <!-- 把事务通知注册到事务切点上 -->
         <aop:advisor advice-ref="txAdvice" pointcut-ref="allServiceMethod"/>
     </aop:config>

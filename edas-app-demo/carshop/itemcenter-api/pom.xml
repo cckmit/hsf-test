@@ -19,4 +19,9 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
+	<parent>
+		<groupId>com.alibaba.edas.test</groupId>
+		<artifactId>edas-demo-carshop</artifactId>
+		<version>1.0</version>
+	</parent>
 </project>
